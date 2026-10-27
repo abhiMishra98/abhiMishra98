@@ -6,7 +6,7 @@
 
 <h2>Abhishek Mishra</h2>
 
-AI inference &nbsp;·&nbsp; AI infrastructure &nbsp;·&nbsp; GPU performance &nbsp;·&nbsp; GPU networking
+AI Inference &nbsp;·&nbsp; AI Infrastructure &nbsp;·&nbsp; GPU Performance &nbsp;·&nbsp; GPU Networking
 
 <sub>Finishing my thesis at the Max Planck Institute for Informatics in Saarbrücken,<br>
 and looking for full time roles in Germany, Switzerland, the Netherlands or the UK.</sub>
@@ -21,7 +21,7 @@ and looking for full time roles in Germany, Switzerland, the Netherlands or the 
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/abhimishraa/">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:mishraabhi.cetb@gmail.com">Email</a> &nbsp;·&nbsp; <a href="https://medium.com/@abhimishra.cetb">Bits & Brains</a>
+<a href="https://www.linkedin.com/in/abhimishraa/">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:mishraabhi.cetb@gmail.com">Email</a> &nbsp;·&nbsp; <a href="https://medium.com/@abhimishra.cetb">Medium</a>
 
 <br>
 
