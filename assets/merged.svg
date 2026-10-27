@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="305" height="32" viewBox="0 0 305 32" role="img" aria-label="Merged: linux-rdma/rdma-core pull request 1808">
+<style>.p{fill:#f6f8fa;stroke:#d1d9e0} .m{fill:#8250df} .ms{stroke:#8250df} .t{font:13px ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;fill:#1f2328} .tm{font:600 13px ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace}
+@media (prefers-color-scheme:dark){.p{fill:#151b23;stroke:#3d444d} .m{fill:#a371f7} .ms{stroke:#a371f7} .t{fill:#e6edf3}}</style>
+<rect class="p" x=".5" y=".5" width="304" height="31" rx="16.0"/>
+<g fill="none" stroke-width="1.6" class="ms" stroke-linecap="round">
+  <path d="M17 12.0 V21.0"/>
+  <path d="M17 12.0 C17 17.0 25 15.0 25 19.0"/>
+</g>
+<circle class="m" cx="17" cy="10.5" r="2.4"/><circle class="m" cx="17" cy="22.0" r="2.4"/><circle class="m" cx="25" cy="20.5" r="2.4"/>
+<text x="32" y="20.6"><tspan class="tm m" textLength="46.8" lengthAdjust="spacingAndGlyphs">merged</tspan><tspan class="t" x="86.6" textLength="202.8" lengthAdjust="spacingAndGlyphs">linux-rdma/rdma-core #1808</tspan></text>
+</svg>
