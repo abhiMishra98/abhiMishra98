@@ -17,7 +17,7 @@ and looking for full time roles in Germany, Switzerland, the Netherlands or the 
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/abhimishraa/">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:mishraabhi.cetb@gmail.com">Email</a> &nbsp;·&nbsp; <a href="https://medium.com/@abhimishra.cetb">Bits & Brains</a>
+<a href="https://www.linkedin.com/in/abhimishraa/">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:mishraabhi.cetb@gmail.com">Email</a> &nbsp;·&nbsp; <a href="https://medium.com/@abhimishra.cetb">Medium</a>
 
 <br>
 
