@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="76" viewBox="0 0 640 76" role="img" aria-label="CUDA, Triton, PyTorch, NCCL, RDMA, Nsight Systems, Nsight Compute, Linux, C/C++, Python">
+<style>.p{fill:#f6f8fa;stroke:#d1d9e0} .l{font:13px ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;fill:#1f2328}
+@media (prefers-color-scheme:dark){.p{fill:#151b23;stroke:#3d444d} .l{fill:#e6edf3}}</style>
+<rect class="p" x="107.5" y="1" width="69.2" height="28" rx="14.0"/><circle cx="122.5" cy="15.0" r="3.0" fill="#76B900"/><text class="l" x="133.5" y="19.6" textLength="31.2" lengthAdjust="spacingAndGlyphs">CUDA</text>
+<rect class="p" x="186.7" y="1" width="84.8" height="28" rx="14.0"/><circle cx="201.7" cy="15.0" r="3.0" fill="#76B900"/><text class="l" x="212.7" y="19.6" textLength="46.8" lengthAdjust="spacingAndGlyphs">Triton</text>
+<rect class="p" x="281.5" y="1" width="92.6" height="28" rx="14.0"/><circle cx="296.5" cy="15.0" r="3.0" fill="#76B900"/><text class="l" x="307.5" y="19.6" textLength="54.6" lengthAdjust="spacingAndGlyphs">PyTorch</text>
+<rect class="p" x="384.1" y="1" width="69.2" height="28" rx="14.0"/><circle cx="399.1" cy="15.0" r="3.0" fill="#4493f8"/><text class="l" x="410.1" y="19.6" textLength="31.2" lengthAdjust="spacingAndGlyphs">NCCL</text>
+<rect class="p" x="463.3" y="1" width="69.2" height="28" rx="14.0"/><circle cx="478.3" cy="15.0" r="3.0" fill="#4493f8"/><text class="l" x="489.3" y="19.6" textLength="31.2" lengthAdjust="spacingAndGlyphs">RDMA</text>
+<rect class="p" x="33.4" y="39" width="147.2" height="28" rx="14.0"/><circle cx="48.4" cy="53.0" r="3.0" fill="#d29922"/><text class="l" x="59.4" y="57.5" textLength="109.2" lengthAdjust="spacingAndGlyphs">Nsight Systems</text>
+<rect class="p" x="190.6" y="39" width="147.2" height="28" rx="14.0"/><circle cx="205.6" cy="53.0" r="3.0" fill="#d29922"/><text class="l" x="216.6" y="57.5" textLength="109.2" lengthAdjust="spacingAndGlyphs">Nsight Compute</text>
+<rect class="p" x="347.8" y="39" width="77.0" height="28" rx="14.0"/><circle cx="362.8" cy="53.0" r="3.0" fill="#8b949e"/><text class="l" x="373.8" y="57.5" textLength="39.0" lengthAdjust="spacingAndGlyphs">Linux</text>
+<rect class="p" x="434.8" y="39" width="77.0" height="28" rx="14.0"/><circle cx="449.8" cy="53.0" r="3.0" fill="#8b949e"/><text class="l" x="460.8" y="57.5" textLength="39.0" lengthAdjust="spacingAndGlyphs">C/C++</text>
+<rect class="p" x="521.8" y="39" width="84.8" height="28" rx="14.0"/><circle cx="536.8" cy="53.0" r="3.0" fill="#8b949e"/><text class="l" x="547.8" y="57.5" textLength="46.8" lengthAdjust="spacingAndGlyphs">Python</text>
+</svg>
