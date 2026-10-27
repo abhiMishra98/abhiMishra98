@@ -8,8 +8,8 @@
 
 AI Inference &nbsp;·&nbsp; AI Infrastructure &nbsp;·&nbsp; GPU Performance &nbsp;·&nbsp; GPU Networking
 
-<sub>Finishing my thesis at the Max Planck Institute for Informatics in Saarbrücken,<br>
-and looking for full time roles in Germany, Switzerland, the Netherlands or the UK.</sub>
+Finishing my thesis at the Max Planck Institute for Informatics in Saarbrücken,<br>
+and looking for full time roles in Germany, Switzerland, the Netherlands or the UK.
 
 <br>
 
